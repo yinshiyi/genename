@@ -20,7 +20,7 @@ http://yizhexu.com/2017/02/r-path/ to put R into path
 
 Then in CMD use cd to direct yourself to the working folder with genelist of interest then run 
 ```{R}
-Rscript genename.R
+Rscript genename.R -v inputfile
 ```
 
 For Linux/MAC users,
@@ -28,10 +28,16 @@ https://www.r-project.org/ to download and install R
 Google how to put R into path
 
 Then in command prompt use cd to direct yourself to the working folder with genelist of interest then run 
-$Rscript genename.R
+```{R}
+Rscript genename.R -v inputfile
+```
 
-$Rscript genename.R 
+```{R}
+Rscript genename.R
+```
 or 
-$Rscript genename.R-h 
+```{R}
+Rscript genename.R -h
+```
 will bring the help page
 
