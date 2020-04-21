@@ -1,4 +1,4 @@
-# genename
+# Genename
 
 This is a R script to annoate a gene ID list, aka find the full description of each gene ID.
 eg. TP53 in the input file will be assigned with "The TP53 gene provides instructions for making a protein called tumor protein p53 (or p53). This protein acts as a tumor suppressor, which means that it regulates cell division by keeping cells from growing and dividing (proliferating) too fast or in an uncontrolled way."
@@ -7,6 +7,7 @@ In order to run this script:
 1. R 3.5 is required and R needs to be in path 
 2. mainscript is needed.
 
+# Installation
 To get the script
 1. Right click https://github.com/yinshiyi/genename/blob/master/genename.R and save as to download the main script
 2. use github clone or pull
