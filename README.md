@@ -19,7 +19,9 @@ https://www.r-project.org/ to download and install R
 http://yizhexu.com/2017/02/r-path/ to put R into path
 
 Then in CMD use cd to direct yourself to the working folder with genelist of interest then run 
-$Rscript genename.R
+```{R}
+Rscript genename.R
+```
 
 For Linux/MAC users,
 https://www.r-project.org/ to download and install R
