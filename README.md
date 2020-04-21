@@ -8,7 +8,7 @@ In order to run this script:
 2. mainscript is needed.
 
 To get the script
-1. go to https://github.com/yinshiyi/genename/blob/master/genename.R and download the main script
+1. Right click https://github.com/yinshiyi/genename/blob/master/genename.R and save as to download the main script
 2. use github clone or pull
 3. download the zip folder then unzip
 
