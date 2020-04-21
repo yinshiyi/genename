@@ -18,13 +18,18 @@ For Windows users,
 https://www.r-project.org/ to download and install R
 http://yizhexu.com/2017/02/r-path/ to put R into path
 
-Then in CMD use cd to direct yourself to the working folder with genelist of interest then run Rscript genename.R
+Then in CMD use cd to direct yourself to the working folder with genelist of interest then run 
+$Rscript genename.R
 
 For Linux/MAC users,
 https://www.r-project.org/ to download and install R
 Google how to put R into path
 
-Then in command prompt use cd to direct yourself to the working folder with genelist of interest then run Rscript genename.R
+Then in command prompt use cd to direct yourself to the working folder with genelist of interest then run 
+$Rscript genename.R
 
-Rscript genename.R or Rscript genename.R-h will bring the help page
+$Rscript genename.R 
+or 
+$Rscript genename.R-h 
+will bring the help page
 
