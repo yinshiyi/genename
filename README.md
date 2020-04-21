@@ -31,6 +31,7 @@ Then in command prompt use cd to direct yourself to the working folder with gene
 ```{R}
 Rscript genename.R -v inputfile
 ```
+End of instructions
 
 ```{R}
 Rscript genename.R
